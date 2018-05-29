@@ -1,6 +1,6 @@
 package com.abhishek
 
-import com.example.UserRegistryActor.ActionPerformed
+import com.abhishek.UserRegistryActor.ActionPerformed
 
 //#json-support
 import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport
